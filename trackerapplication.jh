@@ -1,0 +1,4 @@
+entity Location {
+	name String,
+	description String
+}
